@@ -121,7 +121,7 @@ def max_min():
 
 print('-----------IP----------------')
 przeliczanie_ip()
-print('-----------MASKA--------------')
+print('-----------MASKA---------')
 przeliczanie_maski()
 prefix()
 adres_sieci()
