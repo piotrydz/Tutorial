@@ -119,7 +119,7 @@ def max_min():
     print('Ostatni Host: ', p, '.', o, '.', u, '.', mini)
 
 
-print('-----------IP-----------------')
+print('-----------IP----------------')
 przeliczanie_ip()
 print('-----------MASKA--------------')
 przeliczanie_maski()
