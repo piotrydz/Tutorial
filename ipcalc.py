@@ -1,4 +1,5 @@
 def przeliczanie_ip():
+
     global ip_bin, list_ip_bin, int_list_ip
     ip = input('podaj ip w formacie xxx xxx xxx xxx ')
     ip_list = ip.split()
@@ -9,6 +10,7 @@ def przeliczanie_ip():
 
 
 def przeliczanie_maski():
+
     global prefix_int, mask_bin, list_mask_bin
     mask = input('podaj maske w formacie xxx xxx xxx xxx ')
     mask_list = mask.split()
