@@ -1,4 +1,6 @@
 def przeliczanie_ip():
+    print('hello')
+    
     global ip_bin, list_ip_bin, int_list_ip
     ip = input('podaj ip w formacie xxx xxx xxx xxx ')
     ip_list = ip.split()
@@ -121,7 +123,7 @@ def max_min():
 
 print('-----------IP----------------')
 przeliczanie_ip()
-print('-----------MASKA---------')
+print('-----------MASKA--------------')
 przeliczanie_maski()
 prefix()
 adres_sieci()
