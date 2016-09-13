@@ -1,5 +1,5 @@
 def przeliczanie_ip():
-    
+    print('hello')
     
     global ip_bin, list_ip_bin, int_list_ip
     ip = input('podaj ip w formacie xxx xxx xxx xxx ')
